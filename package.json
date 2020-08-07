@@ -1,0 +1,19 @@
+{
+  "name": "npm_learn",
+  "version": "1.0.0",
+  "description": "just to  learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnmypndy/npm_learn.git"
+  },
+  "author": "Tanmay Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnmypndy/npm_learn/issues"
+  },
+  "homepage": "https://github.com/tnmypndy/npm_learn#readme"
+}
